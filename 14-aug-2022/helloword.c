@@ -16,3 +16,8 @@ printf("My First c program"); // print msg on terminal
 
 return 0; // returning response - successful
 } 
+
+//How to run program : 
+
+//gcc helloword.c
+//./a.out 
